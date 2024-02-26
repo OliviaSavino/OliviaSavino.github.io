@@ -1,0 +1,26 @@
+.parent {
+  position: relative;
+  width: auto;
+  margin: auto;
+}
+
+.image-one {
+  position: absolute;
+  top: 0;
+}
+
+.image-one img {
+  float: left;
+  width: 100px;
+  height: 80px; 
+}
+
+.image-two {
+  position: absolute;
+  top: 0;
+}
+
+.image-two img {
+  width: 30%;
+  float: right;
+}
